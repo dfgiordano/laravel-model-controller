@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+    height: 100px;
+    color: white;
+    background-color: black;
+        h1 {
+            color: blue;
+        }
+        img {
+            height: 50px;
+        }
+        button {
+            width: 100px;
+            cursor: pointer;
+        }
+        .styled:hover {
+            background-color: blue;
+            color: white;
+        }
+}

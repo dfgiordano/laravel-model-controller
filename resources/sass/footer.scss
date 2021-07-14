@@ -1,0 +1,12 @@
+footer {
+    height: 100px;
+    line-height: 100px;
+    background-color: black;
+    ul {
+        display: flex;
+        justify-content: space-around;
+        li {
+            color: white;
+        }
+    }
+}
